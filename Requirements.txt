@@ -1,9 +1,1 @@
-streamlit
-matplotlib
-seaborn
-urlextract
-wordcloud
-pandas
-emoji
-helper
-preprocessing
+
